@@ -45,7 +45,9 @@ I deployed the model and construct a simple web app which interacts with the dep
 # Deep Learning Nanodegree Certificate 
 
 [Certificate Link](https://graduation.udacity.com/confirm/KAYUQKF4)
-https://graduation-api.udacity.com/api/certificate/KAYUQKF4/download
+
+
+
 ![.](../main/CerDPND.png)
 
 
