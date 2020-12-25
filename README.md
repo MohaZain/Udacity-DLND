@@ -48,6 +48,6 @@ I deployed the model and construct a simple web app which interacts with the dep
 
 
 
-![.](../main/CerDPND.png)
+![.](../MohaZain/Udacity-DLND/CerDLND.png)
 
 
