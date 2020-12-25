@@ -42,4 +42,9 @@ I deployed the model and construct a simple web app which interacts with the dep
 
 
 
-# Deep Learning Nanodegree Certificate
+# Deep Learning Nanodegree Certificate 
+
+[Certificate Link](confirm.udacity.com/KAYUQKF4)
+
+![GitHub Logo](Udacity-DLND/cerDPND.png)
+
